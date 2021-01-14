@@ -1,7 +1,18 @@
+
 .panda-card{
     border: 0;
 }
 .panda-card-footer{
     background-color: white;
     border: 0;
+}
+.background{
+    background-color: #f3f3e1;
+}
+.footer{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 5px;
+    color: gray;
 }
